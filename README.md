@@ -12,7 +12,7 @@ A CoffeeBorba possui várias funcionalidades tecnológicas, e flexiblibilades pa
 
 ### Composite
 
-O composite foi utilizado para que possa ser possível incrementar o café da maneira que o cliente desejar. Ele permite que os itens incrementais sejam tratados da mesma maneira que um café composto por várias coisas. Além disso, é possível cadastrar qualquer produto novo no sistema.
+O composite foi utilizado para que possa ser possível incrementar o café da maneira que o cliente desejar. Ele permite que os itens incrementais sejam tratados da mesma maneira que um café composto por várias coisas. Além disso, é possível cadastrar qualquer produto novo no sistema, sem precisar alterar qualquer linha do código!
 
 ### Observer
 
@@ -21,7 +21,7 @@ Para maior comodidade dos clientes, eles podem acompanhar em tempo real o que es
 
 ### Strategy
 
-O CoffeeBorba permite que você escolha o modo que deseja ser servido! Você quer o café na xícara, caneca, ou quer levar para casa em uma garrafa? O Strategy permite que você possa escolher isso. Mas e se você escolher um modo, e depois querer alterá-lo? Deve escolher todos os itens do café novamente? Nada disso, o Strategy permite a alteração do comportamento em tempo de execução, sem precisar recriar o objeto!
+O CoffeeBorba permite que você escolha o modo que deseja ser servido! Você quer o café na xícara, caneca, ou quer levar para casa em uma garrafa? O Strategy permite que você escolha isso. Mas e se você escolher um modo, e depois querer alterá-lo? Deve escolher todos os itens do café novamente? Nada disso, o Strategy permite a alteração do comportamento em tempo de execução, sem precisar recriar o objeto!
 
 
 ### Template
